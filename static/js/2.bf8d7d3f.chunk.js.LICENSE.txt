@@ -10,12 +10,6 @@ object-assign
    * Released under MIT License
    */
 
-/*!
-FullCalendar v5.5.0
-Docs & License: https://fullcalendar.io/
-(c) 2020 Adam Shaw
-*/
-
 /*! *****************************************************************************
         Copyright (c) Microsoft Corporation. All rights reserved.
         Licensed under the Apache License, Version 2.0 (the "License"); you may not use
@@ -179,7 +173,7 @@ PERFORMANCE OF THIS SOFTWARE.
          * ====================================================================
          */
 
-/** @license React v0.20.1
+/** @license React v0.20.2
  * scheduler.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -197,7 +191,7 @@ PERFORMANCE OF THIS SOFTWARE.
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.1
+/** @license React v17.0.2
  * react-dom.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -206,7 +200,7 @@ PERFORMANCE OF THIS SOFTWARE.
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.1
+/** @license React v17.0.2
  * react-jsx-runtime.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -215,7 +209,7 @@ PERFORMANCE OF THIS SOFTWARE.
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.1
+/** @license React v17.0.2
  * react.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
